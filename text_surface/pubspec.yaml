@@ -1,7 +1,7 @@
 name: text_surface
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/chetan9357/flutter_text_surface
+homepage: https://github.com/Excelsior-Technologies-Community/flutter_text_surface
 
 environment:
   sdk: ^3.8.1

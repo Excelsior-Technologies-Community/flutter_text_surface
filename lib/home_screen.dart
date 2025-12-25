@@ -23,14 +23,14 @@ class HomeScreen extends StatelessWidget {
           children: [
             TextSurface(
               text:
-                  'TextSurface ek reusable widget hai jo future me library ke liye perfect hai.',
-              // overflow: TextOverflow.visible,
+                  'You can also follow our updates and releases on our GitHub profile: https://github.com/flutter',
+              overflow: TextOverflow.visible,
             ),
             SizedBox(height: 16),
             TextSurface(
               text:
-                  'Ye long text handle karta hai aur overflow ko automatically manage karta hai.',
-              maxLines: 2,
+                  'If the matter is urgent, feel free to contact our support team on +91 9876543210 or our US helpline number +1 408 555 0199between 9:00 AM to 6:00 PM (IST).',
+              maxLines: 5,
               overflow: TextOverflow.clip,
               textStyle: TextStyle(color: Colors.white),
               style: TextSurfaceStyle(

@@ -18,7 +18,8 @@ Designed with **clean structure** and **future extensibility** in mind.
 ---
 
 ## 📸 Preview
-![text_surface](https://github.com/user-attachments/assets/8a4ed30c-fb63-479f-9319-44d7e8ea5969)
+![text_surface](https://github.com/user-attachments/assets/beca8da7-1bef-4ec4-a55d-f9042c774862)
+
 
 
 ---
